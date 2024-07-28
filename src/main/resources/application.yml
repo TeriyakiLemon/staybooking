@@ -24,3 +24,5 @@ spring:
 staybooking:
   gcs:
     bucket: staybooking-tianchen
+  geocoding:
+    key:"AIzaSyAU8JK0DgYPf3XBvK987hAz6FjjrSxDlvo"
