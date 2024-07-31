@@ -25,4 +25,6 @@ staybooking:
   gcs:
     bucket: staybooking-tianchen
   geocoding:
-    key:"AIzaSyAU8JK0DgYPf3XBvK987hAz6FjjrSxDlvo"
+    key: AIzaSyAJif3QOBn6VAT399ZyJxuDC53zA92CFbY
+  jwt:
+    secret-key: hYW3L6I3gPpEUbtU+17FEHRYJuc8uLYHaLLsuzzyKn4=
